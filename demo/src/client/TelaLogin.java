@@ -1,5 +1,5 @@
-package demo.src.client;
-import demo.src.CriptoUtils;
+package client;
+import util.CriptoUtils;
 import java.util.Locale;
 import java.util.ResourceBundle;
 import javax.swing.*;

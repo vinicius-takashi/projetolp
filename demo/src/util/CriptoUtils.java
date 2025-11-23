@@ -1,4 +1,4 @@
-package demo.src;
+package util;
 import java.security.MessageDigest;
 public class CriptoUtils {
     public static String hashSenha(String senha) {

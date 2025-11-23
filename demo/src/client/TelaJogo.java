@@ -1,4 +1,4 @@
-package demo.src.client;
+package client;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
